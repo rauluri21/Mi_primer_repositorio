@@ -25,7 +25,7 @@ class SampleListener(Leap.Listener):
                 # Write the angles to the file (comma-separated)
                 file.write(f"{pitch},{roll},{yaw}\n")
 
-        # Rest of the code remains the same
+        # El resto del Codigo tambien es lo mismo
 
     # ... (El resto de la clase es lo mismo)
 
